@@ -1,0 +1,44 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  user-select: none;
+}
+.btn{
+  text-align: center;
+}
+
+.nested-links{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+ } 
+ /* .nested-main a{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+   }
+  
+ .nested-main li{
+list-style: none;
+margin: 30px;
+padding:  60px 20px;
+background-color: white;
+box-shadow:5px 10px 10px gainsboro;
+ } */
+
+.red{
+  background-color: red;
+}
+.blue{
+  background-color: blue;
+}
+.timer{
+  background-color:white;
+  width: 70px;
+  height: 70px;
+  border-radius:50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
